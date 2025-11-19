@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**HCarrots/HCarrots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **HCarrots**. I work at the Institute of High Energy Physics, Chinese Academy of Sciences, primarily engaged in the development of synchrotron radiation spectrometers and spectroscopic research. If you are also interested, please contact me at the email address below.
 
 Here are some ideas to get you started:
 
